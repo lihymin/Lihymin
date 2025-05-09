@@ -19,12 +19,12 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="Visual Studio Code">
     <img src="https://img.shields.io/badge/GitHub%20Desktop-24292E?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Desktop">
     <img src="https://img.shields.io/badge/Obsidian-483699?logo=obsidian&logoColor=white&style=for-the-badge" alt="Obsidian">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
   </em>
   <em>
     <h3> Tools I Have Experience With </h3>
     <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=for-the-badge" alt="Aseprite">
     <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" alt="Excel">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
   </em>
   <em>
     <h3> Baekjoon Solved.ac Card </h3>
