@@ -25,6 +25,7 @@
     <h3> Tools I Have Experience With </h3>
     <img src="https://img.shields.io/badge/Aseprite-7D929E?logo=aseprite&logoColor=white&style=for-the-badge" alt="Aseprite">
     <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge" alt="Excel">
+    <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" alt="Notion">
   </em>
   <em>
     <h3> Baekjoon Solved.ac Card </h3>
