@@ -41,9 +41,9 @@
     <Strong> 제 3회 UNIDEV 게임잼 참가 </Strong><br><br>
     etc.....<br>
     Limited Battle - 1인 개발 전략 RPG 도트 게임<br>
-    Load Puzzle - 1인 개발 플랫포머 도트 게임<br>
+    Load Puzzle - 1인 개발 플랫포머 퍼즐 도트 게임<br>
     Shooting Game - Python의 3rd party package인 pygame을 이용해서 만든 슈팅 게임<br>
-    adco - 네이버 블로그 글의 광고 확률을 나타내주는 프로그램
+    ADCO - 네이버 블로그 글의 광고 확률을 나타내주는 프로그램
   </b>
 
   
